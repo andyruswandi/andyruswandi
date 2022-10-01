@@ -1,11 +1,11 @@
 # Hi there, I'm Andy Ruswandi - [andyruswandi](https://www.linkedin.com/in/andy-ruswandi-0909a96b)
 ## About me:
-- ðŸ”­ Iâ€™m currently working at [bantusaku](https://bantusaku.id/)
-- ðŸŒ± Iâ€™m have Skill excellent for Desk collection and team leader
-- ðŸ‘¯ Iâ€™m have Skill excellent for call center
-- ðŸ¤” Iâ€™m have Skill excellent for logistic
-- ðŸ’¬ Ask me about anything
-- ðŸ“« How to reach me: andyruswandi95@gmail.com
+- currently working at [bantusaku](https://bantusaku.id/)
+- have Skill excellent for Desk collection and team leader
+- have Skill excellent for call center
+- have Skill excellent for logistic
+- Ask me about anything
+- How to reach me: andyruswandi95@gmail.com
 
 ## Education:
 
@@ -41,7 +41,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][excel]
 
 
 <br />
